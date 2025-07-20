@@ -45,14 +45,14 @@ PROJECT-MOVIES/
 5. **Run the app**:
    streamlit run app.py
 
-  **💾 LFS Note
-  Large files like .pkl are tracked using Git LFS:**
+   **💾 LFS Note
+   Large files like .pkl are tracked using Git LFS:**
 
    git lfs install
    git lfs track "*.pkl"
 
-  **📷 Preview
-  Below is a screenshot of the app interface:**
+   **📷 Preview
+   Below is a screenshot of the app interface:**
   
   <img width="1862" height="934" alt="Screenshot 2025-07-20 123014" src="https://github.com/user-attachments/assets/e3b43512-e597-40b1-8a49-f261c4865cbd" />
 
