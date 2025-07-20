@@ -60,7 +60,8 @@ PROJECT-MOVIES/
   <img width="1736" height="876" alt="Screenshot 2025-07-20 123120" src="https://github.com/user-attachments/assets/f76a1e0c-008e-478b-8117-59f8be1c33d8" />
 
 **👩‍💻 Created By
-By Lucky_Kumari_iitp
+By Lucky_Kumari
+#IIT PATNA
 
 Made with ❤️ using Python, Streamlit, and TMDB API.**
 
