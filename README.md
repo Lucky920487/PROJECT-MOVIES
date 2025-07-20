@@ -1,4 +1,4 @@
-# 🎬 Movie Recommender System
+# 🎬 Movies Recommender System
 
 This is a content-based movie recommendation system built with Python and Streamlit. It recommends 5 similar movies based on your selected movie using cosine similarity and TMDB data.
 
