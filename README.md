@@ -61,7 +61,8 @@ PROJECT-MOVIES/
 
 **👩‍💻 Created By
 By Lucky_Kumari
-#IIT PATNA
+
+**IIT PATNA**
 
 Made with ❤️ using Python, Streamlit, and TMDB API.**
 
